@@ -1,3 +1,9 @@
+# Free To Be HSP
+
+Edit this text at your leisure (that's _LEH-zure_).
+
+----
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/asabagh/freetobeHSP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
